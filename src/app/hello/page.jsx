@@ -2,7 +2,7 @@ import React from 'react'
 
 function HelloPage() {
   return (
-    <div>HelloPage</div>
+    <div>Bonjour Tourlemon Hhahahahahaha</div>
   )
 }
 
